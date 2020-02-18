@@ -1,0 +1,56 @@
+Mono path[0] = 'H:/Proje/Projeler/NUI/Last Version/Balloon Game Full Version_Data/Managed'
+Mono path[1] = 'H:/Proje/Projeler/NUI/Last Version/Balloon Game Full Version_Data/Mono'
+Mono config path = 'H:/Proje/Projeler/NUI/Last Version/Balloon Game Full Version_Data/Mono/etc'
+PlayerConnection initialized from H:/Proje/Projeler/NUI/Last Version/Balloon Game Full Version_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55072
+Multi-casting "[IP] 192.168.1.115 [Port] 55072 [Flags] 2 [Guid] 3490249901 [EditorId] 226936190 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-GHT5LPR) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.115:55072]
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f07)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.502 seconds
+Platform assembly: H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\Proje\Projeler\NUI\Last Version\Balloon Game Full Version_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.430600 ms
+The referenced script on this Behaviour (Game Object 'Left_Wall') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.043000 ms
+System memory in use before: 42.4 MB.
+System memory in use after: 42.5 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1098.
+Total: 0.252800 ms (FindLiveObjects: 0.031000 ms CreateObjectMapping: 0.017700 ms MarkObjects: 0.153100 ms  DeleteObjects: 0.050300 ms)
+
+Ip 192.168.1.115
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Waiting for Connection
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1cf0 -> priority: 1 
+  Thread -> id: 45c -> priority: 1 
